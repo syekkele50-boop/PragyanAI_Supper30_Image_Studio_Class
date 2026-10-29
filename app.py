@@ -9,7 +9,7 @@ from PIL import Image, ImageOps, ImageDraw, ImageFont, ImageEnhance, ImageFilter
 st.set_page_config(page_title="PragyanAI- Image Applications Studio", page_icon="🧩", layout="wide")
 
 st.title("PragyanAI - Image Applications Studio")
-st.image("pngtree-new-...16123145.jpg")
+st.image("pngtree-new-cb-background-images-photos-pics-wallpaper-pictures-image_16123145.jpg")
 st.caption("Crop • Stack • Merge • Watermark • Mask • Overlay • Logo • Tags • Export")
 
 st.markdown("""
